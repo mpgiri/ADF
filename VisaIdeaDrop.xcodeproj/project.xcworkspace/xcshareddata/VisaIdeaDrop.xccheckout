@@ -12,22 +12,34 @@
 	<dict>
 		<key>7BDBCA297CDCA1DF8DF60AA5352086270206F59D</key>
 		<string>https://github.com/ShriHarsha/ChryslerTest.git</string>
+		<key>C2567A5E6ACDC585290D44E090CBB75B894D2C30</key>
+		<string>https://github.com/mpgiri/ADF.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>ChryslerHybird/VisaIdeaDrop.xcodeproj</string>
+	<string>VisaIdeaDrop.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>7BDBCA297CDCA1DF8DF60AA5352086270206F59D</key>
-		<string>../../..</string>
+		<string>../../../ChryslerTest</string>
+		<key>C2567A5E6ACDC585290D44E090CBB75B894D2C30</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/ShriHarsha/ChryslerTest.git</string>
+	<string>https://github.com/mpgiri/ADF.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>7BDBCA297CDCA1DF8DF60AA5352086270206F59D</string>
+	<string>C2567A5E6ACDC585290D44E090CBB75B894D2C30</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C2567A5E6ACDC585290D44E090CBB75B894D2C30</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ADF</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
